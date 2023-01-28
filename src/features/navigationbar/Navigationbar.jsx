@@ -11,8 +11,7 @@ export default function Navigationbar() {
         <img
           className='logo-navbar'
           src="/images/logo.png"
-          width="50%"
-          height="50%"
+
           alt='Logo'
         />
         <Group className='list-pages' spacing={5}>
@@ -22,9 +21,10 @@ export default function Navigationbar() {
           <Link className='link-item' to='/demo'>
             Demo
           </Link>
-          <Link className='link-item' to='/highscore'>
-            Highscore
+          <Link to={{ pathname: "https://game.scherbeck.tech/webgl" }} target="_blank" className='link-item' >
+            Play
           </Link>
+
         </Group>
       </Container>
     </Header>

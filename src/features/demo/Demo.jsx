@@ -13,8 +13,6 @@ export default function Demo() {
             <Grid.Col span={2}>
                 <NewCard title="Test Card" text="new Card" />
             </Grid.Col>
-
-            <Grid.Col span={2}>3</Grid.Col>
         </Grid >
     );
 }
