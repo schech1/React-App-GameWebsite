@@ -3,6 +3,7 @@ const LocalRoutes = {
   demo: 'demo',
   download: 'download',
   highscore: 'highscore',
+  devlog: 'devlog',
   empty: '',
 };
 

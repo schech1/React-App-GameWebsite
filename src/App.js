@@ -12,6 +12,7 @@ function App() {
       <Routes>
         <Route path={LocalRoutes.home} element={<Home />} />
         <Route path={LocalRoutes.demo} element={<Demo />} />
+        <Route path={LocalRoutes.devlog} element={<Demo />} />
         {/* <Route path={LocalRoutes.highscore} element={<Highscore />} /> */}
       </Routes>
 

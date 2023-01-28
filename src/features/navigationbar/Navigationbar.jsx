@@ -25,6 +25,10 @@ export default function Navigationbar() {
             Play
           </Link>
 
+          <Link className='link-item' to='/devlog'>
+            Devlog
+          </Link>
+
         </Group>
       </Container>
     </Header>
