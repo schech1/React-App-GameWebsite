@@ -29,6 +29,10 @@ export default function Navigationbar() {
             Devlog
           </Link>
 
+          <Link className='link-item' to='/chatai'>
+            ChatAI
+          </Link>
+
         </Group>
       </Container>
     </Header>
