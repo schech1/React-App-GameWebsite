@@ -1,0 +1,29 @@
+.inner-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  height: 56;
+}
+
+img.logo-navbar {
+  width: 5rem;
+  padding: 1rem;
+  padding-right: 2rem;
+}
+
+.link-item {
+  text-decoration: none;
+  display: inline-block;
+  border: 1px solid white;
+  border-radius: 40px;
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: rgb(51 204 204);
+  color: white;
+  font-weight: 700;
+}
+
+.link-item:hover {
+  background-color: rgb(146, 13, 95);
+}
