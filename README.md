@@ -2,8 +2,11 @@
 ## Features
 
 - Game demo in WebGL (done)
+- CI/CD Pipeline (done)
 - Game overview (tbd)
 - Screenshots (tbd)
 - Appstore links (tbd)
 - Highscore board synced with game (tbd)
-- CI/CD Pipeline (done)
+- Design... (tbd)
+
+
