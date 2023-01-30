@@ -8,7 +8,7 @@ export default function Demo() {
 
             <SimpleGrid cols={2} verticalSpacing="xl">
                 <NewCard title="Demo available" text="Download the Demo!" />
-                <NewCard title="Test Card" text="new Card" />
+                <NewCard title="Deployed with CD" text="new Card" />
             </SimpleGrid>
 
         </Container>
