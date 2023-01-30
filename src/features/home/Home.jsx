@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <div>
-      <h1>Home Page</h1>
+      <h1>This website was deployed automatically!</h1>
       <button type='button' onClick={() => {
 
       }}>

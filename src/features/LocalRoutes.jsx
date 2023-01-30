@@ -4,7 +4,6 @@ const LocalRoutes = {
   download: 'download',
   highscore: 'highscore',
   devlog: 'devlog',
-  chatai: 'chatai',
   empty: '',
 };
 
